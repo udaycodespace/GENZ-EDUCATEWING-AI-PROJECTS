@@ -1,4 +1,4 @@
-# 🤖 GENZ EDUCATEWING – AI PROJECTS INTERNSHIP (Summer 2025)
+# GENZ EDUCATEWING 🤖 – AI PROJECTS INTERNSHIP 2k25
 
 Welcome to my official submission repository for the **GENZ Educatewing AI Internship** held during **Summer 2025**.  
 This repository documents **two major AI projects** completed as part of the internship assignment – focused on real-world applications of **Natural Language Processing (NLP)** and **Computer Vision (CV)** using Deep Learning.
